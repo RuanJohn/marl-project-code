@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-probability
+trfl
+dm-sonnet
+ma-gym
